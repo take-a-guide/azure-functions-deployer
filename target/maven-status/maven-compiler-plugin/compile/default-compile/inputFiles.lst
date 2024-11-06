@@ -1,5 +1,3 @@
-/Users/0xjoao/Desktop/user-service-bff/src/main/java/com/userservicebff/userservicebff/model/LoginRequest.java
-/Users/0xjoao/Desktop/user-service-bff/src/main/java/com/userservicebff/userservicebff/UserServiceBffApplication.java
-/Users/0xjoao/Desktop/user-service-bff/src/main/java/com/userservicebff/userservicebff/config/AppConfig.java
-/Users/0xjoao/Desktop/user-service-bff/src/main/java/com/userservicebff/userservicebff/controllers/UserServiceBffController.java
-/Users/0xjoao/Desktop/user-service-bff/src/main/java/com/userservicebff/userservicebff/model/User.java
+/Users/0xjoao/Desktop/take-a-guide-azure-functions/src/main/java/com/function/SendMessageFunction.java
+/Users/0xjoao/Desktop/take-a-guide-azure-functions/src/main/java/com/function/RegisterMessageFunction.java
+/Users/0xjoao/Desktop/take-a-guide-azure-functions/src/main/java/com/function/ReceiveMessageFunction.java
